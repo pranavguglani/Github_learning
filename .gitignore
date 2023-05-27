@@ -1,0 +1,5 @@
+#comment can be done with 
+# *.txt ignores all the txt files.
+
+.DS_Store
+secrets.txt
